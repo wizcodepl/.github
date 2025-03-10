@@ -8,3 +8,5 @@ Here are some of our open source highlights:
 - [outdated-packages-health-check](https://github.com/wizcodepl/outdated-packages-health-check)
 - [jobs-counter-health-check](https://github.com/wizcodepl/jobs-counter-health-check)
 - [laravel-api-docs](https://github.com/wizcodepl/laravel-api-docs)
+
+Contact us: [https://wizcode.pl](https://wizcode.pl)
