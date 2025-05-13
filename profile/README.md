@@ -1,6 +1,6 @@
 ## About Wizcode
 
-[Wizcode](https://wizcode.pl) builds expandable MVPs with lightning-speed development solutions. We create scalable web platforms, mobile apps, and IoT solutions.
+[Wizcode](https://wizcode.pl) builds mobile applications and web platforms that quickly acquire active users. We create scalable web platforms, mobile apps, and IoT solutions.
 
 We primarily use Laravel for our projects and are passionate about contributing to its vibrant ecosystem. Since 2023, we’ve been actively developing Laravel and PHP packages to support the community and enhance the framework’s capabilities.
 
