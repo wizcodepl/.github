@@ -1,6 +1,6 @@
 ## About Wizcode
 
-[Wizcode](https://wizcode.pl) offers Laravel Expert on demand — I’ll handle it for you in a white-label model.
+[Wizcode](https://wizcode.pl) offers Laravel Expert on demand — We handle it for you in a white-label model.
 
 We primarily use Laravel for our projects and are passionate about contributing to its vibrant ecosystem. Since 2023, we’ve been actively developing Laravel and PHP packages to support the community and enhance the framework’s capabilities.
 
